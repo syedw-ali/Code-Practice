@@ -1,3 +1,5 @@
+console.log("Calculator v2.0 ready!");
+
 // calculator.js
 
 // Get numbers from the command line arguments
